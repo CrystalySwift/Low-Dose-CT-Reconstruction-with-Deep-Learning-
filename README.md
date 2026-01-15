@@ -40,7 +40,7 @@ Below is the comparison between:
 ## Documentation (Full Report)
 The comprehensive research report is available in Indonesian. It covers detailed mathematical derivations, architecture diagrams, and extensive testing data.
 
-**[Download Full Report (Bahasa Indonesia)](Full_Report_Indonesian.pdf)**
+**[Download Full Report (Bahasa Indonesia)](Full_Report_Indonesian)**
 
 ## Tech Stack
 * **Language:** Python
