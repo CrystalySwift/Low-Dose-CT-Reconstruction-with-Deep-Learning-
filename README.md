@@ -18,7 +18,7 @@ We implemented and compared three reconstruction architectures:
 ## Key Results
 Our experiments revealed a significant trade-off between patch-based training accuracy and full-volume inference capability.
 
-While the **3D model** performed exceptionally well during patch-level testing, it suffered from domain shift issues when applied to full-volume patient scans because the training used patches data. Consequently, the **2D MWCNN** turned out to be the robust solution.
+While the **3D model** performed well during patch-level testing, it suffered from domain shift issues when applied to full-volume patient scans because the model was trained on patch data. Consequently, the **2D MWCNN** turned out to be the robust solution.
 
 | Metric | Input (FBP) | 2D MWCNN (Full Volume) | 3D Att-U-Net (Full Volume) | 3D Att-U-Net (Patch Test) |
 | :--- | :--- | :--- | :--- | :--- |
