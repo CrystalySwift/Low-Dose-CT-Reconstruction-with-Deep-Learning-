@@ -42,6 +42,11 @@ The comprehensive research report is available in Indonesian. It covers detailed
 
 **[Download Full Report (Bahasa Indonesia)](Full_Report_Indonesian)**
 
+## Code Implementation
+You can view the full training and testing process in the Jupyter Notebook below:
+
+**[View Code Notebook (.ipynb)](Python_Script.ipynb)**
+
 ## Tech Stack
 * **Language:** Python
 * **Deep Learning Framework:** PyTorch
