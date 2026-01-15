@@ -40,7 +40,7 @@ Below is the comparison between:
 ## Documentation (Full Report)
 The comprehensive research report is available in Indonesian. It covers detailed mathematical derivations, architecture diagrams, and extensive testing data.
 
-**[Download Full Report (Bahasa Indonesia)](Full_Report_Indonesian)**
+**[Download Full Report (Bahasa Indonesia)](Full_Report_Indonesian.pdf)**
 
 ## Code Implementation
 You can view the full training and testing process in the Jupyter Notebook below:
