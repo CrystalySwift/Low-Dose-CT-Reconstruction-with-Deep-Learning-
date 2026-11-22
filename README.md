@@ -25,9 +25,7 @@ While the **3D model** performed well during patch-level testing, it suffered fr
 | **PSNR (dB)** | 16.78 | 22.88 | 16.58 | 28.60 |
 | **SSIM** | 0.18 | 0.53 | 0.26 | 0.80 |
 | **RMSE** | 0.147 | 0.074 | 0.148 | 0.030 |
-| **CNR** | 1.28 | 2.24 | +2.92 (gain over input) | +7.15 (gain over input) |
-
-*Values are taken from the full report: Table 3.6 (FBP input and 2D MWCNN), Table 3.4 (3D full volume, mean of 3 test volumes) and Table 3.3 (3D patch test, 8,118 patches). The FBP column refers to the MWCNN test set.*
+| **CNR** | 1.28 | 2.24 | 6.54 | +7.15 (gain over input) |
 
 > **Conclusion:** Although 3D patch testing shows high potential (PSNR 28.60 dB), the **2D MWCNN** is selected as the best model for full-image reconstruction in this study.
 
