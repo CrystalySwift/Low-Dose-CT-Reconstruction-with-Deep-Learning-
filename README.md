@@ -56,7 +56,7 @@ You can view the full training and testing process in the Jupyter Notebook below
 * **Libraries:** NumPy, Matplotlib, Scikit-image, PyWavelets
 
 ## Contributors
-* **Crystaly**
+* **Crystaly** – Lightweight 3D Residual-Attention U-Net
 * **Mutiara Putri Afrita**
 * **Raisa Shahira Afnan**
 * **Athallah Fadhil**
